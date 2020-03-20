@@ -10,11 +10,11 @@ _This website is an example of the techniques i have learned so far from my time
 
 ## Setup/Installation Requirements
 
-### _Option 1
+### Option 1
 * _Clone the repository located at https://github.com/reidashwill/week-one-solo_
 * _Open index.html with your preferred text editor or browser_
 
-### _Option 2
+### Option 2
 * _Open your browser of choice and navigate to https://reidashwill.github.io/week-one-solo/_
 
 
