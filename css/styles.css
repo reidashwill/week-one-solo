@@ -60,7 +60,12 @@ font-size: x-large;
 .headshot{
   float: right;
   width: 25%;
+  margin: 30px;
 }
 .active {
   background-color: #489580;
+}
+
+.quote{
+  text-align: right;
 }
