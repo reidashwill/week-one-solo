@@ -1,6 +1,10 @@
 .jumbotron{
   background-color: #FDE2AA;
   margin: 0;
+  background-image: url(img/bridge.jpg); 
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: white;
 }
 
 ul{list-style-type: none;}
