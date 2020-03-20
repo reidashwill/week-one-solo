@@ -33,3 +33,7 @@ ul{list-style-type: none;}
   background-color: #FDE2AA;
   margin: 30px;
 }
+.emphasis{
+  color: goldenrod;
+  font-style: italic;
+}
