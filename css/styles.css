@@ -3,10 +3,10 @@
 }
 .nav-ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 5px;
+  padding: 10px;
   overflow: hidden;
-  background-color: #333;
+  background-color: #676953;
 }
 
 .nav-li {
@@ -17,10 +17,13 @@
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+  padding: 10px 15px;
 }
 
 .nav-li a:hover {
-  background-color: #111;
+  background-color: #FDE2AA;
+  color: black;
+}
+.well{
+  background-color: #FDE2AA;
 }
