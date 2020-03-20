@@ -1,5 +1,5 @@
 .container{
-  color:
+  color:inherit;
 }
 .jumbotron{
   color: white;
@@ -49,4 +49,18 @@ font-size: x-large;
 }
 .contact a{
   color: inherit;
+}
+
+.btn{
+  border-radius: 75%;
+}
+.btn:hover{
+  background-color: goldenrod;
+}
+.headshot{
+  float: right;
+  width: 25%;
+}
+.active {
+  background-color: #489580;
 }
