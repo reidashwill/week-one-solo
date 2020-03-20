@@ -1,12 +1,6 @@
 .jumbotron{
-  background-color: #FDE2AA;
-  margin: 0;
-  background-image: url(img/bridge.jpg); 
-  background-size: 100%;
-  background-repeat: no-repeat;
   color: white;
 }
-
 ul{list-style-type: none;}
 
 .nav-ul {
@@ -14,7 +8,7 @@ ul{list-style-type: none;}
   margin: 5px;
   padding: 10px;
   overflow: hidden;
-  background-color: #676953;
+  background-color: lightslategray;
 }
 
 .nav-li {
@@ -29,13 +23,17 @@ ul{list-style-type: none;}
 }
 
 .nav-li a:hover {
-  background-color: #FDE2AA;
+  background-color: grey;
   color: black;
 }
 
 .well{
-  background-color: #FDE2AA;
+  background-color: grey;
   margin: 30px;
+}
+
+.panel{
+background-color: lightslategray;
 }
 .emphasis{
   color: goldenrod;
