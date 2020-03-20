@@ -1,3 +1,35 @@
 #navigation{
   width: max-content;
 }
+.jumbotron{
+  background-color: #FDE2AA;
+  margin-bottom: 0;
+}
+ul{list-style-type: none;}
+.nav-ul {
+  list-style-type: none;
+  margin: 5px;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #676953;
+}
+
+.nav-li {
+  float: left;
+}
+
+.nav-li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 15px;
+}
+
+.nav-li a:hover {
+  background-color: #FDE2AA;
+  color: black;
+}
+.well{
+  background-color: #FDE2AA;
+  margin: 30px;
+}
