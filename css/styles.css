@@ -1,10 +1,12 @@
 .container{
   color:inherit;
 }
+
 .jumbotron{
   color: white;
   margin-top: 30px;
 }
+
 ul{list-style-type: none;}
 
 .nav-ul {
@@ -40,13 +42,16 @@ ul{list-style-type: none;}
 .panel{
 background-color: lightslategray;
 }
+
 .emphasis{
   color: goldenrod;
   font-style: italic;
 }
+
 .contact{
 font-size: x-large;
 }
+
 .contact a{
   color: inherit;
 }
@@ -54,14 +59,17 @@ font-size: x-large;
 .btn{
   border-radius: 75%;
 }
+
 .btn:hover{
   background-color: goldenrod;
 }
+
 .headshot{
   float: right;
   width: 25%;
   margin: 30px;
 }
+
 .active {
   background-color: #489580;
 }
