@@ -1,6 +1,11 @@
 #navigation{
   width: max-content;
 }
+.jumbotron{
+  background-color: #FDE2AA;
+  margin-bottom: 0;
+}
+ul{list-style-type: none;}
 .nav-ul {
   list-style-type: none;
   margin: 5px;
@@ -26,4 +31,5 @@
 }
 .well{
   background-color: #FDE2AA;
+  margin: 30px;
 }
